@@ -12,3 +12,5 @@ Write a python code that takes input from console in a modular* approach. The co
 Sample inputs:  1. CT -a LR 2. CT -f strange.csv -n 3 -r 0.8 -e brf 
 
 ** -e switch will be valid only if LR is chosen for -a. Otherwise, warn the user for using invalid combination of switches. But simply ignore the request of explanation. A brief explanation will contain at least the following: Num of Observations, coef, std err, t, P>|t|, R-Squared, Adj. R-squared, F-statistic. And a detail report should contain the aforementioned values as well as their meaning.
+
+Use any Consol
